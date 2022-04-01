@@ -9,7 +9,6 @@ const Header = ({title}) =>{
         <header className= "header">
         <h1>{title}</h1>
         <Button onClick={onClick} text="Add" />
-        <Button onClick={onClick} text=" SecondAdd" />
         </header>
     )
 }
