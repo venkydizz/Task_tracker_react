@@ -1,0 +1,22 @@
+{
+  "Tasks": [
+    {
+      "id": 1,
+      "title": "Wake Up",
+      "time": "6:00 AM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "title": "take a Bath",
+      "time": "6:30 AM",
+      "reminder": true
+    },
+    {
+      "title": "BreakFast",
+      "time": "8:00 AM",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
